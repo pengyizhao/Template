@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/top_tool_bar"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:minHeight="48dp"
+    android:layout_height="wrap_content">
+
+    <com.lvbo.template.common.widget.CustomTextView
+        android:id="@+id/img_left_back"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:textSize="@dimen/txt_large"
+        android:gravity="center"
+        android:textColor="@color/color_black"
+        app:txtFontType="@string/fontello"
+        android:text="@string/icon_menu"/>
+
+
+    <ImageView
+        android:id="@+id/img_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+    <com.lvbo.template.common.widget.CustomTextView
+        android:id="@+id/txt_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="@dimen/txt_xxlarge"
+        android:textColor="@color/color_black"
+        android:layout_centerInParent="true"/>
+
+
+    <com.lvbo.template.common.widget.CustomTextView
+        android:id="@+id/img_right"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/color_black"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textSize="@dimen/txt_large"
+        app:txtFontType="@string/fontello"
+        android:text="@string/icon_arrow_next"/>
+
+</RelativeLayout>

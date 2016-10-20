@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white">
+
+        <RelativeLayout
+            android:id="@+id/rl_setting_lang_en"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:paddingBottom="16dp"
+            android:paddingTop="16dp">
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_label_lang_en"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/language_en"
+                android:textColor="@color/color_ship_gray" />
+
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_setting_lang_en"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/icon_tick_on"
+                android:textColor="@color/color_viking"
+                android:textSize="@dimen/txt_xxlarge"
+                android:visibility="invisible"
+                app:txtFontType="@string/fontello" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_setting_lang_tc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:paddingBottom="16dp"
+            android:paddingTop="16dp">
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_label_lang_tc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/language_tc"
+                android:textColor="@color/color_ship_gray" />
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_setting_lang_tc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/icon_tick_on"
+                android:textColor="@color/color_viking"
+                android:textSize="@dimen/txt_xxlarge"
+                android:visibility="invisible"
+                app:txtFontType="@string/fontello" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_setting_lang_sc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:paddingBottom="16dp"
+            android:paddingTop="16dp">
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_label_lang_sc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/language_sc"
+                android:textColor="@color/color_ship_gray" />
+
+            <com.lvbo.template.common.widget.CustomTextView
+                android:id="@+id/tv_setting_lang_sc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/icon_tick_on"
+                android:textColor="@color/color_viking"
+                android:textSize="@dimen/txt_xxlarge"
+                android:visibility="invisible"
+                app:txtFontType="@string/fontello" />/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

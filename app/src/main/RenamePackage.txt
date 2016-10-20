@@ -1,0 +1,6 @@
+修改package Name的方法和步骤
+
+分两步
+    一、选中Java目录下的package,然后同时按shift+F6 。弹出重命名对话框,输入要想要的名称,然后点击 rename package 按钮
+    二、修改app目录下build.gradle的applicationId;
+    这样就完成了修改

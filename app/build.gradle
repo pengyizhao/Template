@@ -1,0 +1,86 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+    defaultConfig {
+        applicationId "com.lvbo.template"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false//是否开启混淆
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'//混淆规则(里面声明了哪些要混淆已经混淆规则)文件
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24.2.1'
+
+
+    //检查内存泄漏工具 begin
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.4-beta2'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2'
+    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2'
+    //检查内存泄漏工具 end
+
+    //网络请求 retrofit2+RXJava+RXAndroid   begin
+    compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+    compile 'io.reactivex:rxandroid:1.2.1'
+    compile 'io.reactivex:rxjava:1.1.6'
+    //网络请求 retrofit2+RXJava+RXAndroid   end
+
+    //butterknife 用于注解框架,减少findViewById操作;setOnClick
+    compile 'com.jakewharton:butterknife:7.0.1'
+
+    //recyclerview 提供单列列表、多列列表、gridView、瀑布流
+    compile 'com.android.support:recyclerview-v7:24.2.0'
+
+    //recyclerview 提供下拉刷新,上拉加载更多的单列列表、多列列表、gridView、瀑布流
+    compile 'com.jcodecraeer:xrecyclerview:1.2.7'
+
+
+    /*
+    eventbus框架,发布/订阅事件总线;
+    主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦
+    */
+    compile 'de.greenrobot:eventbus:2.4.0'
+
+    //android 的material design,里面有很多非常炫的控件
+    compile 'com.android.support:design:24.2.0'
+
+    //图片加载框架
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+    //针对非常大的图片的加载框架  fresco
+//    compile 'com.facebook.fresco:fresco:0.14.1'
+
+    //Google分享
+    compile 'com.google.android.gms:play-services-analytics:9.0.2'
+
+    //Google推送 gcm
+    compile 'com.google.android.gms:play-services-gcm:9.0.2'
+
+    //Google fcm 教程地址https://firebase.google.com/docs/cloud-messaging/android/client
+    compile 'com.google.firebase:firebase-messaging:9.0.2'
+
+    //Google地图
+    compile 'com.google.android.gms:play-services-maps:9.0.2'
+
+    testCompile 'junit:junit:4.12'
+}
+//这里是Google的gcm和gcm用到
+apply plugin: 'com.google.gms.google-services'

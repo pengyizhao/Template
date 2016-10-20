@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_black">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/tutorial_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_tutorial_descript"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin">
+        <com.lvbo.template.common.widget.CustomTextView
+            android:id="@+id/txt_tutorial_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_viking"
+            android:layout_marginTop="20dp"
+            android:textSize="@dimen/txt_xxlarge"
+            android:gravity="center"
+            android:text="How to earn your mileage"/>
+
+        <com.lvbo.template.common.widget.CustomTextView
+            android:id="@+id/txt_descript"
+            android:layout_width="match_parent"
+            android:textColor="@color/color_ship_gray"
+            android:layout_marginTop="@dimen/common_margin"
+            android:textSize="@dimen/txt_normal"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_tutorial_title"
+            android:gravity="center"
+
+            android:text="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/tutorial_dot_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:visibility="visible">
+
+    </LinearLayout>
+
+
+</RelativeLayout>

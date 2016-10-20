@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!--推荐 屏幕边距16dp; 控件与控件的margin为8dp-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="common_margin">8dp</dimen>
+
+    <!--请选用下面的尺寸来设置字体大小,因为一个应用的字体尺寸太多会感觉错乱-->
+
+    <!--caption-->
+    <dimen name="txt_small">12sp</dimen>
+    <!--body 、button、menu、-->
+    <dimen name="txt_normal">14sp</dimen>
+    <!--subhead-->
+    <dimen name="txt_large">16sp</dimen>
+    <dimen name="txt_xlarge">18sp</dimen>
+    <!--title-->
+    <dimen name="txt_xxlarge">20sp</dimen>
+
+    <!--headline-->
+    <dimen name="txt_xxxxlarge">24sp</dimen>
+
+
+
+</resources>

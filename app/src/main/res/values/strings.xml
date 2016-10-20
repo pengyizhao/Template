@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Template</string>
+
+
+    <!--字体-->
+    <string name="Apex_New_Bold">Apex_New_Bold</string>
+    <string name="Apex_New_Light">Apex_New_Light</string>
+    <string name="Apex_New_Medium">Apex_New_Medium</string>
+    <string name="Arial_Bold">Arial_Bold</string>
+    <string name="Arial">Arial</string>
+    <string name="fontello">fontello</string>
+
+    <string name="skip">skip</string>
+
+
+    <string name="language_sc">简体</string>
+    <string name="language_tc">繁體</string>
+    <string name="language_en">English</string>
+
+</resources>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.2_6b8d083b456238aacb9f77f9797db47a8896e98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_ce64d62d3aa2a96f9079b059cadb0a6ded2d976a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.4-beta2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.4-beta2_057879c9b05bf8ea06d695ef5495625ea82c0f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_4a5651fa677c0706b0d1d1e9eb5d3109dcef6c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.2_3c7ac352922d231487b9da56d132a79c3ebd2bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.2_a228cd3726fc25e16f6a527463582dc5122be004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_adc6f10e0f98a37531189efaab63a1a231463c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_a286c41f78f13e70586e1be2226ad4fb5d88bfa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_172f6f780c11a9df195304d11004bbc7b2370067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/gson-2.7_7c25035a58f7309dae3a5a6e9080e92e6eedcdf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_65e44c281c05c11b07b7f647e123e284c22d077e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.4-beta2/449777cd466ac0a16f7e8d0dc508e70e2cdd13a9/leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.4-beta2_ec02f4a28c743c078a5c237d81c65aede121f06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d229ffa6d7d22316621bea695a181b54a478c9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_1663c3cbd9bba4f705e77e310dece6844f5a4511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_10730f414acc17cabd38d9280a6efb0fb57661b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_5953a4ef51e48588a5b0e966b9499b6e621896df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_61d4163fc8750b4144a638d5a5cfe6b861d89a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b78071fa60347988e5e79e79fd637f600f0828f3">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fd75fff04b23295174574cdfc73aa653cdbca4eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b4477e332042f2ae67330b3c8817a0c69eaf15d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/converter-scalars-2.1.0_8593d963a9c63e69a685a4e7817dfe020df24447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_46ecfb3d40ea834818408603c7267576884f46e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/okio-1.9.0_3203f45c0b48c032f202181eba2bfc25b5ea71d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_ee2c1c3ca4161736813f670679317a0de70ef49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.2_fd16c3334d8e58ad11a5b9bf4be800e37ee8e826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b76c0e37b172c38c8b2b914625ab723334776071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.4-beta2/6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92/leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.4-beta2_d9aa22fbac7b9d72fbc005205b853cc591a8d0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_68e6224041a5f9c0f21cb1dc1de6822e6447aa36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_b4c7f6957407f5ae56bfd206a62a34fec234cd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.2_90511a427dbc178752736d13b6b218fdbd93c80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_c42117b909ccd8489ce4a2440122b9d2da9e884d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d13e8999465fb1095281b660b857e044807a195">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/instant-run_8258e15ebe86f5396aebfd7b3904bae02a1db903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.jcodecraeer/xrecyclerview/1.2.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.jcodecraeer-xrecyclerview-1.2.7_a0a8fe2677dae8aa735123751bada343acc6777c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3a3e5ea2b73dbcbcb9698e7b7eb5150cbb3babc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0734f4c3ca0f29e2cc15f7e654b1704d82574197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6a3941619352f09aaab1ab5756181075a2d3a77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8a581fe2ceb6ac8b051999d68f8692bb0ab002fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a81dacc0870e2f19414df7644dc6a20c820227cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1ea92822fe84537c781cd51d76499fe2d6896a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_3f849cc45d5ae9c77e1429f75c1026993fbf4f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_75909f8d4d6781f6a39da66fcc2e49c3fc97141f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_69e84df2e7fa4e3e4d4587b28534e99abf08249d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.2/fd65b84d12d6adc77ec0e4fcaca623fc391d8679/haha-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/haha-2.0.2_1167652580ade3b5d4b5c3cbc162a2e7426a96cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_a4e30b2c2bd338d8027b388049826938d54d5b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.2_e4f797df488ed8c11275c5edc31aad7db6265305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d9603bb6a54c8fdbfce61ea914cd70ff4e4cd41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_e27a2f2b7d6e282f0df0dfb93b1649dc2c470204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_55580aa0f5a9e8268a5a95c78de0242080222b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_53bea499ab6ac9b2053b8431c4fc433902e94986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_12edde0dfccd9d64d7ed9f3c02dcafa08eb43372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/lvbo/Documents/androidStudioWorkPlace/Template/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_a159339a8a0827d6f2772b1b448c388456252562.jar" />
+    </item>
+
+</items>
